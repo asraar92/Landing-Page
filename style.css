@@ -1,0 +1,174 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.topContainer1 {
+  background-color: #1F2937;
+
+  padding-left: 225px;
+  padding-right: 225px;
+}
+
+.heroMain {
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: 900;
+}
+
+.linkText,
+.heroSecondary {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
+  font-weight: 800;
+
+
+}
+
+button {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border-style: solid;
+  border-color: #3882F6;
+
+
+  border-radius: 5px;
+  padding: 3px 20px;
+  height: 35px;
+  width: 120px;
+  font-size: 20px;
+}
+
+.hero {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+}
+
+.heroSection {
+
+  display: flex;
+  justify-content: space-between;
+  padding-top: 100px;
+  padding-bottom: 130px;
+}
+
+.road {
+  height: 255px;
+  width: 520px;
+}
+
+
+
+.infoSection {
+  padding-bottom: 130px;
+
+  padding-left: 225px;
+  padding-right: 225px;
+}
+
+.imageCaptionContainer {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.infoHeader {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  color: #2F383E;
+
+}
+
+.image {
+  border-radius: 15px;
+  height: 175px;
+  width: 175px;
+}
+
+.caption {
+
+  font-size: large;
+  color: #655962;
+}
+
+.quoteSection {
+  background-color: #E5E7EB;
+  padding-left: 335px;
+  padding-right: 385px;
+  padding-top: 100px;
+  padding-bottom: 130px;
+
+}
+
+.mainQuote {
+
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 350;
+  font-style: italic;
+}
+
+.citation {
+  text-align: end;
+  font-size: 25px;
+  color: #1C1B2F;
+  font-weight: 700;
+}
+
+.containerCTA {
+  background-color: #3882F6;
+  border-radius: 10px;
+  display: flex;
+  justify-content:space-evenly;
+  height:60px; width:935px;
+  padding-left: 50px;
+  
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+.textCTAmain {
+  font-size: 24px;
+  color: #F9FAF8;
+  font-weight: 600;
+}
+
+.mainCTA {
+   padding-left: 225px;
+  padding-right: 225px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.buttonCTA2 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F9FAF8;
+  
+}
+.textCTAsecondary {font-size: 18px;
+  color: #BFD0BA;}
+  .buttonCTA1 {
+  align-self:center;
+}
+.copyrightClause {background-color: #1F2937;text-align:center;color:#EAE0E9;height:90px;font-size:large;padding-top:30px;padding-bottom:30px;margin:0;border:0;box-sizing:border-box;}
